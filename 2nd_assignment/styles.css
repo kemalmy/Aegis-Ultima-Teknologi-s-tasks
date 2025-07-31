@@ -1,0 +1,39 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.todo-container {
+    max-width: 600px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.todolist-container {
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.todo-card {
+    margin-bottom: 5px;
+}
+
+.bg-pastel-red {
+    background-color: #ffcccc;
+}
+
+.bg-pastel-blue {
+    background-color: #cce5ff;
+}
+
+.bg-pastel-green {
+    background-color: #ccffcc;
+}
+
+.bg-pastel-purple {
+    background-color: #e0ccff;
+}
